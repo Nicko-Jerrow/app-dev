@@ -1,7 +1,7 @@
 # app-dev
 My first repository.
 # My Favorite Movie
-** The Hobbit **
+**The Hobbit**
 1. It's a High Fantasy Novel
 2. About home loving hobbit who joins a wizard and thirteen dwarves
 3. Journey to get the treasure from the Dragon Smaug
